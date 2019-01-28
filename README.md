@@ -1,5 +1,5 @@
 # Python-Image-Glitching
-Python script to destroy image files
+Python script to destroy image files in a (hopefully) artistic way.
 
 Warning: this will destroy the file you specify so make sure to have a copy of the file before glitching.
 
