@@ -3,7 +3,7 @@ Python script to destroy image files
 
 Warning: this will destroy the file you specify so make sure to have a copy of the file before glitching.
 
-How to use:
+# How to use:
 Copy the filepath of the image you want to glitch to the "filepath" variable.
 Note that if you use backslashes, you need to escape them like this: \\
 
