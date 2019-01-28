@@ -9,4 +9,6 @@ Note that if you use backslashes "\\", you need to escape them by using a double
 
 Then call the functions in any way you desire. If the image is a small file, use smaller numbers. Every function takes integers as parameters.
 
+Examples of results can be found in the folder "Examples".
+
 Enjoy!
